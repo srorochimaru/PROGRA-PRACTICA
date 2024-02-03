@@ -1,0 +1,19 @@
+.divcol{
+    background-color: black;
+    width: 80px;
+    height: 100px;
+}
+.divcol2{
+    background-color: white;
+    width: 80px;
+    height: 100px;
+}
+body{
+    border: black;
+}
+img{
+    height: 90px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+}
